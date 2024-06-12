@@ -9,6 +9,8 @@
 
 [![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-%2B-yellow.svg?style=flat)](http://linktr.ee/kiplymacho)
 
+- Beberapa script dan program kecil yang dikemas ke dalam paket termux-tools termux.
+
 # Syarat & Ketentuan 
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
 <h2 align="center">
