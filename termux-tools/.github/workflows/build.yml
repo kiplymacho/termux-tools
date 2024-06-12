@@ -1,0 +1,37 @@
+name: Build termux-tools
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ env.GITHUB_REF }}
+
+      - name: Install host dependencies
+        run: |
+          sudo apt-get install pandoc
+
+      - name: Prepare
+        run: |
+          autoreconf -vfi
+          mkdir build
+
+      - name: Configure
+        run: |
+          cd build
+          ../configure --prefix $(pwd)/prefix
+
+      - name: Make
+        run: |
+          cd build
+          make
+
+      - name: Make install
+        run: |
+          cd build
+          make install
