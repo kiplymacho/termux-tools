@@ -5,7 +5,9 @@
 
 <p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
 
-[![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
+<h2 align="center">
+
+[![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-%2B-yellow.svg?style=flat)](http://linktr.ee/kiplymacho)
 
 # Syarat & Ketentuan 
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
@@ -17,16 +19,13 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![termux](https://img.shields.io/badge/termux-71-yellow.svg?style=flat)](https://sfile.mobi/1Pk3b69xugs7)
 
-# Aplikasi VPN (Android Only)
-<h2 align="center">
-
-- Klik Disini👉[![Xhyper Tunnel Pro](https://img.shields.io/badge/XhyperTunnelPro-98-yellow.svg?style=flat)](https://sfile.mobi/7SMATlKVVem)
-
 - <a href="https://play.google.com/store/apps/details?id=xyz.easypro.httpcustom">
 <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="165" height="64" />
 </a>
 
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
+
+# Aplikasi Vpn (Android Only)
 
 <h2 align="center">
 
